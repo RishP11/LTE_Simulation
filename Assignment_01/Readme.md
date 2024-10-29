@@ -5,4 +5,5 @@ __EE 699 Next Generation Wireless Networks__
 - I have added other comments in the `.mlx` file itself. Please refer them.
 - I have also added ample code related comments which hopefully should make my approach clear.
 
-- Thank You 
+- Thank You,
+Rishabh Pomaje
